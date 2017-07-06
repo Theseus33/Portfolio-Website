@@ -1,7 +1,7 @@
 #Web Development Portfolio
 
-![Page 1](page1.jpg)
-![Page 2](page2.jpg)
+![Page 1](page1.png)
+![Page 2](page2.png)
 
 ##Technologies Used
 -Floats
